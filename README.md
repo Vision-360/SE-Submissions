@@ -7,11 +7,7 @@ Trisha Bassan 19103071<br>
 Divyansh Agarwal 19103090<br>
 Ananya Gupta 19103105<br>
 Nibhrit Garg 1910110<br>
-
-<br>
 <br>
 <a href = "https://github.com/Vision-360/SE-Submissions/blob/main/Use_Case_Diagram.png"> Use Case Diagram </a>
-
-<br>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/Activity_Diagram.png">Activity Diagram</a>
