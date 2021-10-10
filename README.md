@@ -10,8 +10,8 @@ Nibhrit Garg 1910110<br>
 
 <br>
 <br>
-[Use Case Diagram:](https://github.com/Vision-360/SE-Submissions/blob/main/Use_Case_Diagram.png)
+[Use Case Diagram:](/Use_Case_Diagram.png)
 
 <br>
 <br>
-[Activity Diagram:](https://github.com/Vision-360/SE-Submissions/blob/main/Activity_Diagram.png)
+[Activity Diagram:](/Activity_Diagram.png)
