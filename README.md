@@ -23,3 +23,8 @@ Divyansh Agarwal 19103090<br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/Activity_Diagram.png">Activity Diagram</a>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
+
+# Website Features
+
+Motion Detection<br>
+![screenshot](https://github.com/Vision-360/Vision-360-Project/blob/9c11aad5192252bdedb5070c96c2efdd67987fe8/static/Motion.gif)
