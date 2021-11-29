@@ -59,7 +59,6 @@ Divyansh Agarwal 19103090<br>
 
 # Diagrams
 
-<br>
 <a href = "https://github.com/Vision-360/SE-Submissions/blob/main/Use_Case_Diagram.png"> Use Case Diagram </a>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/Activity_Diagram.png">Activity Diagram</a>
