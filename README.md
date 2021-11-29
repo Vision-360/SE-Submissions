@@ -10,7 +10,7 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 
 # Learning Phases
 
-Team Member Formation:<br>
+<strong><u>Team Member Formation:</strong></u><br>
 1. Choosing the field of interest after a series of meetings with the team members.
 2. Selecting the appropriate mentor best suited to the technology selected.<br>
 
