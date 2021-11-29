@@ -10,16 +10,44 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 
 # Learning Phases
 
-<strong><u>Team Member Formation:</strong></u><br>
+<strong>Team Member Formation:</strong>
 1. Choosing the field of interest after a series of meetings with the team members.
 2. Selecting the appropriate mentor best suited to the technology selected.<br>
 
-Project Idea Discussion and Synopsis Drafting:
+<strong>Project Idea Discussion and Synopsis Drafting:</strong>
 1. Project Ideas explored by all the team members.
 2. Decided on two project ideas before presenting to our project mentor, Professor Sachin. The ideas were:
     1. Our first idea was a suspicious activity detection system that we wanted to build using various AI models. We read numerous research papers on this to broaden our   knowledge. 
     2. Our second idea was an intelligent suggestive system for backpackers.
 3. After a thorough research on both the ideas we narrowed our project topic to a Smart Survillance system.
+
+<strong>Discovering Project Requirements:</strong>
+1. Looking onto the existing work in this related field, if done.
+2. Deciding the further objectives which can be achieved, and which would add a lot of value to the existing project.
+3. We must have datasets for training purposes of our models to be able to predict the required output.
+4. Deciding on technology for Deep learning depending on the familiarity of the teammates with the technologies:
+5. Natural Language Processing(NLP) using Recurrent Neural Networks(RNN) and LSTM.
+6. Tensorflow and Keras framework for training the model.
+7. Deciding on technology for frontend and backend for the website(and parallelly learning them during the training phase):
+8. Frontend - HTML, CSS, javascript, bootstrap
+9. Backend - Flask, Python, Open cv
+
+<strong>Model Implementation:</strong>
+1. Implementation of various models in python using pre-trained dataset.
+2. Models were selected after rigorously going through various reasearch papers.
+
+<strong>Frontend:</strong>
+1. Added login, register, contact us and about us pages
+
+<strong>Developing the backend and Integrating with front end:</strong>
+1. Developing the website’s backend using the Flask framework of python.
+2. Started integrating the frontend and the backend.
+3. Details page added providing information of the recent models used.
+
+<strong>Future Scope:</strong>
+1. We could add more suitable models which can be used for accomplishing different tasks. The added models can be integrated with other models, thus resulting in more functionalities using the same set of models.
+2. Performance in terms of speed and computational resources is a major factor to be considered in our whole application. We could possibly look into parallel computing and other better computing options, but this would be a very big task. 
+3. If added more customizable by user and better results shown, a mobile application would be very easy to access for the owner and thus could be one of the future prospects.
 
 
 # Team Members
