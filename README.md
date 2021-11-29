@@ -65,6 +65,15 @@ Divyansh Agarwal 19103090<br>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
 
+## Technologies Used
+
+1. <a href="https://html.com/" target="_blank">HTML</a>    
+2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>
+3. <a href="https://getbootstrap.com/">Bootstrap</a>
+4. <a href="https://www.python.org/">Python</a>
+5. <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>
+6. Keras
+
 # Website Features
 
 Motion Detection<br>
