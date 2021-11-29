@@ -14,7 +14,7 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 1. Choosing the field of interest after a series of meetings with the team members.
 2. Selecting the appropriate mentor best suited to the technology selected.<br>
 
-<strong>Project Idea Discussion and Synopsis Drafting:</strong>
+<strong><u>Project Idea Discussion and Synopsis Drafting:</u></strong>
 1. Project Ideas explored by all the team members.
 2. Decided on two project ideas before presenting to our project mentor, Professor Sachin. The ideas were:
     1. Our first idea was a suspicious activity detection system that we wanted to build using various AI models. We read numerous research papers on this to broaden our   knowledge. 
