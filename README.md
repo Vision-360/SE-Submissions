@@ -57,13 +57,6 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
 
-## Team Members
-
-1. 19103105 Ananya Gupta 
-2. 19103071 Trisha Bassan 
-3. 1910110 Nibhrit Garg 
-4. 19103090 Divyansh Agarwal 
-
 ## Technologies Used
 
 1. <a href="https://html.com/" target="_blank">HTML</a>    
@@ -91,3 +84,10 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 
 Motion Detection<br>
 <img src="https://github.com/Vision-360/Vision-360-Project/blob/9c11aad5192252bdedb5070c96c2efdd67987fe8/static/Motion.gif"  width="100%">
+
+## Team Members
+
+1. 19103105 Ananya Gupta 
+2. 19103071 Trisha Bassan 
+3. 1910110 Nibhrit Garg 
+4. 19103090 Divyansh Agarwal 
