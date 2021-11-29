@@ -8,6 +8,12 @@ There has been a sharp rise in the amount of disruptive and offensive activities
 
 Therefore, to reduce the wastage of time and labour, we have come up with our project VISION 360 that utilizes deep learning algorithms for smart activity detection and other forms of motion detection. One of its many goals is to automatically identify signs of irregularities in real-time. We plan to use different deep learning models to identify and classify various levels of movement in the frame that can raise a detection alert for the situation of a threat, indicating the suspicious activities at an instance of time. The user is required to register on our website using their email ids and then the user can enter a video feed to our server. The website can also be connected to CCTVs, where we extract frames from the captured CCTV recordings which can then be analysed and classified by various trained models. Some of these models include Facial Recognition, Motion Detection, Fire and Activity Detection. In case something out of the normal is detected, a mail alert would be sent to the concerned user. We plan on utilizing tools such as machine learning, deep learning and web development technologies. In today’s world of uncertainty and lurking dangers, choose VISION 360 to help you ensure safety of your space.
 
+# Learning Phases
+
+Team Member Formation:<br>
+1. Choosing the field of interest after a series of meetings with the team members.
+2. Selecting the appropriate mentor best suited to the technology selected.
+
 # Team Members
 
 Ananya Gupta 19103105<br>
