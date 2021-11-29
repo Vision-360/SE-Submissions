@@ -74,6 +74,19 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 6. <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>
 7. Keras
 
+## Key Features
+1. **New User Login:** A new user can login into the website by entering id and password.
+2. **User authentication:** Each user will be provided its own username and password and details of the user will be stored in the firebase.
+3. **Motion Detection:** Uses an OpenCV function. If the contour is greater than 3200, we draw rectangles around the objects and show that motion has been detected.
+4. **Emotion Recognition:** Detects and displays emotions realtime. Uses deepFace.
+5. **Face Recognition:** Displays the name of the person realtime
+6. **Activity Detection:** It can recognize over 400 activities with 78.4-94.5% accuracy.
+7. **Fire Detection:** Detects fire and sends a mail to the concerned user.
+8. **Flood Detection:** Detects flooding of area.
+9. **Object Detection:** Draws boxes around the objects detected with color of box varying from one class of object to other.
+10. **Details Page:** Shows the recent 5 detections made by models.
+11. **User Query and Support:** The user can put in queries on the contact us page which will be received directly in the admin email.
+
 ## Website Features
 
 Motion Detection<br>
