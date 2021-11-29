@@ -49,14 +49,6 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 2. Performance in terms of speed and computational resources is a major factor to be considered in our whole application. We could possibly look into parallel computing and other better computing options, but this would be a very big task. 
 3. If added more customizable by user and better results shown, a mobile application would be very easy to access for the owner and thus could be one of the future prospects.
 
-
-## Team Members
-
-Ananya Gupta 19103105<br>
-Trisha Bassan 19103071<br>
-Nibhrit Garg 1910110<br>
-Divyansh Agarwal 19103090<br>
-
 ## Diagrams
 
 <a href = "https://github.com/Vision-360/SE-Submissions/blob/main/Use_Case_Diagram.png"> Use Case Diagram </a>
@@ -65,14 +57,22 @@ Divyansh Agarwal 19103090<br>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
 
+## Team Members
+
+1. 19103105 Ananya Gupta 
+2. 19103071 Trisha Bassan 
+3. 1910110 Nibhrit Garg 
+4. 19103090 Divyansh Agarwal 
+
 ## Technologies Used
 
 1. <a href="https://html.com/" target="_blank">HTML</a>    
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>
 3. <a href="https://getbootstrap.com/">Bootstrap</a>
-4. <a href="https://www.python.org/">Python</a>
-5. <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>
-6. Keras
+4. Javascript
+5. <a href="https://www.python.org/">Python</a>
+6. <a href="https://flask.palletsprojects.com/en/1.1.x/">Flask</a>
+7. Keras
 
 ## Website Features
 
