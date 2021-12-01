@@ -72,6 +72,8 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/Activity_Diagram.png">Activity Diagram</a>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
+<br>
+<a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
 
 ## Technologies Used
 
