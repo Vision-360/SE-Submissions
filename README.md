@@ -67,13 +67,17 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 
 ## Diagrams
 
-<a href = "https://github.com/Vision-360/SE-Submissions/blob/main/Use_Case_Diagram.png"> Use Case Diagram </a>
+<a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/Activity_Diagram.png">Activity Diagram</a>
 <br>
-<a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
+<a href = "https://github.com/Vision-360/SE-Submissions/blob/main/Use_Case_Diagram.png"> Use Case Diagram </a>
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/Sequence_Diagram.png">Sequence Diagram</a>
+<br>
+<a href="https://github.com/Vision-360/SE-Submissions/blob/main/Class_Diagram.png">Class Diagram</a>
+<br>
+<a href="https://github.com/Vision-360/SE-Submissions/blob/main/State_Diagram_Updated.png">State Chart Diagram</a>
 
 ## Technologies Used
 
