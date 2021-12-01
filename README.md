@@ -1,4 +1,22 @@
-# Vision 360
+<h1 align="center">
+  <br>
+  <a href=https://github.com/ishaannverma/VoyageCapital><img src="https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital-logos/Voyage%20Capital-logos.jpeg" alt="Voyage Capital" width="200"></a>
+  <br>
+  Voyage Capital
+  <br>
+</h1>
+
+<h4 align="center">A Stock Market Prediction Web Application<a href="https://github.com/ishaannverma/VoyageCapital" target="_blank"></a></h4>
+
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#our-inspiration">Our Inspiration</a> •
+  <a href="#technologies-used">Technologies Used</a> •
+  <a href="#apis-used">Apis Used</a> •
+  <a href="#links">Links</a> •
+  <a href="#team">Team</a>
+</p>
 
 ## Problem Statement
 
