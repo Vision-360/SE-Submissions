@@ -1,10 +1,7 @@
 <h1 align="center">
-  <br>
-  <a href=![VISION 360 - Presentation - Google Chrome 01-12-2021 22_52_13](https://user-images.githubusercontent.com/70218078/144283377-ab054e59-7735-45da-9ffe-54cc387455f7.png)
-alt="Voyage Capital" width="200"></a>
-  <br>
+  
   VISION360
-  <br>
+
 </h1>
 
 <h4 align="center">A Stock Market Prediction Web Application<a href="https://github.com/ishaannverma/VoyageCapital" target="_blank"></a></h4>
@@ -18,7 +15,7 @@ alt="Voyage Capital" width="200"></a>
   <a href="#links">Links</a> •
   <a href="#team">Team</a>
 </p>
-
+  <br>
 ## Problem Statement
 
 There has been a sharp rise in the amount of disruptive and offensive activities in the past decade that makes security a significant concern. Public places like shopping centres, hospitals, banks and even neighbourhoods are increasingly being equipped with CCTVs to guarantee the security of individuals. Since constant observation of these surveillance cameras is a near-impossible task for us human beings, we need a working model that is able to analyse in depth, if the captured activities are anomalous or suspicious, hence the need to automate this process with high precision arises.
