@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#Problem Statement">Our Inspiration</a> •
+  <a href="#Problem-Statement">Our Inspiration</a> •
   <a href="#technologies-used">Technologies Used</a> •
   <a href="#Diagrams">Links</a> •
-  <a href="#team members">Team</a>
+  <a href="#team-members">Team</a>
 </p>
   
   
