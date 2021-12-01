@@ -15,7 +15,8 @@
   <a href="#links">Links</a> •
   <a href="#team">Team</a>
 </p>
-  <br>
+  
+  
 ## Problem Statement
 
 There has been a sharp rise in the amount of disruptive and offensive activities in the past decade that makes security a significant concern. Public places like shopping centres, hospitals, banks and even neighbourhoods are increasingly being equipped with CCTVs to guarantee the security of individuals. Since constant observation of these surveillance cameras is a near-impossible task for us human beings, we need a working model that is able to analyse in depth, if the captured activities are anomalous or suspicious, hence the need to automate this process with high precision arises.
