@@ -1,8 +1,9 @@
 <h1 align="center">
   <br>
-  <a href=https://github.com/ishaannverma/VoyageCapital><img src="https://github.com/ishaannverma/VoyageCapital/blob/main/Voyage%20Capital-logos/Voyage%20Capital-logos.jpeg" alt="Voyage Capital" width="200"></a>
+  <a href=![VISION 360 - Presentation - Google Chrome 01-12-2021 22_52_13](https://user-images.githubusercontent.com/70218078/144283377-ab054e59-7735-45da-9ffe-54cc387455f7.png)
+alt="Voyage Capital" width="200"></a>
   <br>
-  Voyage Capital
+  VISION360
   <br>
 </h1>
 
