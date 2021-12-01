@@ -73,7 +73,7 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 <br>
 <a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
 <br>
-<a href="https://github.com/Vision-360/SE-Submissions/blob/main/README.md">Project Write-Up</a>
+<a href="https://github.com/Vision-360/SE-Submissions/blob/main/Sequence_Diagram.png">Sequence Diagram</a>
 
 ## Technologies Used
 
