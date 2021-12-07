@@ -41,19 +41,27 @@ Therefore, to reduce the wastage of time and labour, we have come up with our pr
 1. Looking onto the existing work in this related field, if done.
 2. Deciding the further objectives which can be achieved, and which would add a lot of value to the existing project.
 3. We must have datasets for training purposes of our models to be able to predict the required output.
-4. Deciding on technology for Deep learning depending on the familiarity of the teammates with the technologies:
-5. Natural Language Processing(NLP) using Recurrent Neural Networks(RNN) and LSTM.
-6. Tensorflow and Keras framework for training the model.
-7. Deciding on technology for frontend and backend for the website(and parallelly learning them during the training phase):
-8. Frontend - HTML, CSS, javascript, bootstrap
-9. Backend - Flask, Python, Open cv
+4. Deciding on technology for Deep Learning depending on the familiarity of the teammates with the technologies:
+   - Tensorflow and Keras framework for training the model.
+   - Exploring pretrained models like RESNET and InceptionV3
+5. Deciding on technology for frontend and backend for the website(and parallelly learning them during the training phase):
+   - Frontend - HTML, CSS, JavaScript, Bootstrap
+   - Backend - Flask, Python, OpenCV
 
-<strong><ins>Model Implementation</ins>:</strong>
-1. Implementation of various models in python using pre-trained dataset.
-2. Models were selected after rigorously going through various reasearch papers.
+<strong><ins>Learning Phase</ins>:</strong>
+1. We looked into the research work going on in the field of computer vision in the area of security
+2. We then took a deep learning course by AndrewNG
+3. Learning about Facial Recognition, how it actually works and finding suitable libraries for the same.
+
+<strong><ins>Implementation</ins>:</strong>
+1. Implementation of the Activity Detection in python using pre-trained RESNET34 model.
+2. Training of the Fire Detection Model first using CNN which resulted in overfitting.
+3. Training the Fire Detection Model using a customized InceptionV3 model.
+4. Implemented Facial Recognition using dlib
+5. Implemented Motion Detection
 
 <strong><ins>Frontend</ins>:</strong>
-1. Added login, register, contact us and about us pages
+1. Developed Login, Register, Contact Us and About Us pages
 
 <strong><ins>Developing the backend and Integrating with front end</ins>:</strong>
 1. Developing the website’s backend using the Flask framework of python.
